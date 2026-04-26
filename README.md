@@ -20,3 +20,6 @@ Printed output using print()
 Imported and used the os module
 Created variables with different data types
 Performed operations using different operators
+
+
+day1.py
